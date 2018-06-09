@@ -1,0 +1,21 @@
+
+
+.componentFormat{
+    color:whitesmoke;
+    border: rgb(167, 160, 160) solid 1px;
+    background-color: rgba(63, 59, 59, 0.514);
+    justify-self: center;
+    text-align: left;
+
+    margin: 10px 10px;
+    
+}
+
+.topic, .startYear, .endYear{
+    width: 75%;
+}
+.searchButton{
+   
+    text-align: center;
+}
+
